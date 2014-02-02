@@ -1,0 +1,3 @@
+#!/bin/sh
+
+[ -e /etc/samba/smb.conf.xbian ] || mv /etc/samba/smb.conf /etc/samba/smb.conf.xbian
