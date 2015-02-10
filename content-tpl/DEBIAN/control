@@ -1,0 +1,12 @@
+Origin: XBian
+Package: xbian-package-samba
+Version: __DATE__
+Section: net
+Priority: optional
+Architecture: armhf
+Pre-Depends: openbsd-inetd
+Depends: samba, samba-common-bin
+Replaces: xbian-package-networkfs
+Conflicts: xbian-package-networkfs
+Maintainer: <development@xbian.org>
+Description: Windows <--> linux filesharing __DATE__
