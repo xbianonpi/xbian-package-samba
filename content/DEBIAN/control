@@ -1,6 +1,6 @@
 Origin: XBian
 Package: xbian-package-samba
-Version: 2.0.0-4
+Version: 20210910-0
 Section: net
 Priority: optional
 Architecture: armhf
@@ -9,4 +9,4 @@ Depends: samba, samba-common-bin
 Replaces: xbian-package-networkfs
 Conflicts: xbian-package-networkfs
 Maintainer: <development@xbian.org>
-Description: Windows <--> linux filesharing.
+Description: Windows <--> linux filesharing 20210910-0

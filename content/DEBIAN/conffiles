@@ -1,2 +1,4 @@
-etc/samba/shares.conf
-etc/samba/user.conf
+/etc/samba/smb.conf
+/etc/samba/shares.conf
+/etc/samba/user.conf
+/etc/wsdd.conf
