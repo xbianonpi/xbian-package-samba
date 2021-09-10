@@ -1,3 +1,9 @@
 .DS_Store
 md5sums
 .gen.changes
+*.deb
+content/etc/wsdd.conf
+content/etc/samba/smb.conf
+content/etc/samba/shares.conf
+content/DEBIAN/conffiles
+content/DEBIAN/control
