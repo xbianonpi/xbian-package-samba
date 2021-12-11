@@ -5,7 +5,7 @@ Section: net
 Priority: optional
 Architecture: armhf
 Pre-Depends: openbsd-inetd
-Depends: samba, samba-common-bin
+Depends: samba, samba-common-bin, samba-vfs-modules
 Replaces: xbian-package-networkfs
 Conflicts: xbian-package-networkfs
 Maintainer: <development@xbian.org>
