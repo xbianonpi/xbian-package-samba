@@ -3,7 +3,7 @@ Package: xbian-package-samba
 Version: __DATE__
 Section: net
 Priority: optional
-Architecture: armhf
+Architecture: all
 Pre-Depends: openbsd-inetd
 Depends: samba, samba-common-bin, samba-vfs-modules
 Replaces: xbian-package-networkfs
